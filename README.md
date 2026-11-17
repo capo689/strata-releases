@@ -1,49 +1,30 @@
-# Strata-G
+# Strata-G 2.0
 
-**A board game collection for Mac and Windows:** Chess, Reversi, Checkers, Go, Backgammon, Dominoes and Tic-tac-toe, in seven languages.
+Seven strategy games for Mac and Windows: Chess, Reversi, Checkers, Go, Backgammon, Dominoes and Tic-tac-toe, with illustrated sets, game variants, seven languages and computer opponents.
 
-Strata-G is in a private beta. To play, you need a **beta code** from Adam Cagle. Codes look like `SG1-` followed by a long string of letters and numbers.
+[Buy Strata-G or recover your key](https://adamcagle.com/strata-g) · [Current release](https://github.com/capo689/strata-releases/releases/latest)
 
-## Download
+## Download Strata-G 2.0
 
-**Current version: 0.1.0 beta 6**, released November 9, 2026. [All versions](https://github.com/capo689/strata-releases/releases)
-
-| Your computer | Download |
+| Your computer | Signed installer |
 |---|---|
-| Mac (Apple Silicon or Intel), macOS 13 Ventura or newer | [Strata-G 0.1.0 beta 6 for Mac](https://github.com/capo689/strata-releases/releases/download/v0.1.0-beta.6/Strata-G-0.1.0-beta.6-Mac.dmg) |
-| Windows 10 or 11 (64-bit) | [Strata-G 0.1.0 beta 6 for Windows](https://github.com/capo689/strata-releases/releases/download/v0.1.0-beta.6/Strata-G-0.1.0-beta.6-Windows-Setup.exe) |
+| Mac — Apple Silicon or Intel, macOS 13 or newer | [Download Strata-G 2.0 for Mac](https://github.com/capo689/strata-releases/releases/download/v2.0.0/Strata-G-2.0.0-Mac.dmg) |
+| Windows 10 or 11 — 64-bit | [Download Strata-G 2.0 for Windows](https://github.com/capo689/strata-releases/releases/download/v2.0.0/Strata-G-2.0.0-Windows-Setup.exe) |
 
-Each download is about 500 MB.
+Both installers are signed by Adam Cagle. The Mac app and disk image are Apple-notarized.
 
-## Installing
+## Install and activate
 
-Strata-G is signed by its developer, Adam Cagle. The Mac version is also checked by Apple.
+On Mac, open the disk image and drag Strata-G into Applications. On Windows, run the installer.
 
-**Mac**
-1. Open the downloaded file and drag **Strata-G** into **Applications**.
-2. Open Strata-G from Applications.
+Open Strata-G, paste your complete license key, and choose Activate. An internet connection is required for activation. Existing purchased Strata-G keys work with 2.0. Your installed version appears in Settings.
 
-**Windows**
-1. Run the downloaded installer.
-2. If Windows shows "Windows protected your PC", click **More info**, check that the publisher is **Adam Cagle**, then click **Run anyway**. New apps see this until enough people have downloaded them.
+## Play your way
 
-## Your beta code
+Play against the computer or with a friend on the same device. To play online, sign in with a free Epic Games account inside Strata-G. Offline play does not require an Epic account.
 
-The first time Strata-G opens, it asks for your key (your beta code). Paste the whole code, starting with `SG1-`, and press **Activate**. You need an internet connection to activate.
+## Checksums and engine source
 
-- One code works on **2 computers**.
-- Strata-G checks in now and then. You can play offline for up to 14 days at a time.
-- Each code works until the end of the beta period Adam gave you. When it ends, Strata-G says so.
-- Code not working, or both computers already used? Contact Adam.
+[SHA256SUMS.txt](https://github.com/capo689/strata-releases/releases/download/v2.0.0/SHA256SUMS.txt) contains the release file checksums.
 
-## Playing online
-
-To play someone on another computer, sign in with your free Epic Games account inside Strata-G. Playing the computer, or two people on one screen, needs no Epic account.
-
-## Checking your download
-
-[SHA256SUMS.txt](https://github.com/capo689/strata-releases/releases/download/v0.1.0-beta.6/SHA256SUMS.txt) lists the SHA-256 of each file.
-
-## Open-source engines
-
-Strata-G includes the Edax (Reversi) and GNU Backgammon engines, which are free software under the GNU General Public License. Their complete source, with the scripts used to build them, is in [Strata-G-0.1.0-beta.6-Engine-Source.zip](https://github.com/capo689/strata-releases/releases/download/v0.1.0-beta.6/Strata-G-0.1.0-beta.6-Engine-Source.zip). License texts for every component are included with the app.
+[Engine Source](https://github.com/capo689/strata-releases/releases/download/v2.0.0/Strata-G-2.0.0-Engine-Source.zip) contains corresponding source and build information for the included open-source engines. Component licenses also ship with the app. This ZIP is not needed to install or play.
