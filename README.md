@@ -2,7 +2,7 @@
 
 Seven strategy games for Mac and Windows: Chess, Reversi, Checkers, Go, Backgammon, Dominoes and Tic-tac-toe, with illustrated sets, game variants, seven languages and computer opponents.
 
-[Buy Strata-G or recover your key](https://adamcagle.com/strata-g) · [Current release](https://github.com/capo689/strata-releases/releases/latest)
+[Buy Strata-G or recover your key](https://adamcagle.com/strata-g) · [Download for Mac or Windows](https://adamcagle.com/strata-g/download)
 
 ## Download Strata-G 2.0
 
@@ -23,8 +23,12 @@ Open Strata-G, paste your complete license key, and choose Activate. An internet
 
 Play against the computer or with a friend on the same device. To play online, sign in with a free Epic Games account inside Strata-G. Offline play does not require an Epic account.
 
-## Checksums and engine source
+<details>
+<summary>Technical files: checksums and engine source</summary>
+
 
 [SHA256SUMS.txt](https://github.com/capo689/strata-releases/releases/download/v2.0.0/SHA256SUMS.txt) contains the release file checksums.
 
 [Engine Source](https://github.com/capo689/strata-releases/releases/download/v2.0.0/Strata-G-2.0.0-Engine-Source.zip) contains corresponding source and build information for the included open-source engines. Component licenses also ship with the app. This ZIP is not needed to install or play.
+
+</details>
